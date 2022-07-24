@@ -1,5 +1,4 @@
 # flaskApp
-whitehatjr assignment. 
+Application to sort movies using IMDB's top ~1000 movies dataset using a variety of algorithms. Frontend made using React, backend made using the Flask framework. 
 
-Will have to manually download a final.csv file and movies.csv file, for they are too large to put in this github repo. 
-
+**To deploy this, you'll need to manually download and insert IMDB's dataset as it is far too large to fit in this repository. 
